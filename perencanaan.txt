@@ -4,3 +4,4 @@
 4. paham react js
 5. paham python
 5. paham algoritma
+7. paham logika matematika

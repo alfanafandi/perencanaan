@@ -1,0 +1,5 @@
+1. paham html
+2. paham css
+3. paham javascript
+4. paham react js
+5. paham python
